@@ -1,0 +1,2 @@
+# Clementine
+A C++ buddy
