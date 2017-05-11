@@ -1,0 +1,6 @@
+&geen_errors&
+&lekker_weer&
+&het_is_een_goeie_dag_vandaag&
+&geen_reden&
+&omdat_het_woensdag_is&
+&omdat_dat_kan&

@@ -1,0 +1,5 @@
+&goed&7&
+&heel_goed&8&
+&wel_goed&6&
+&goed_hoor&6&
+&boo&2&

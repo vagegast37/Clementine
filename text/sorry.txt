@@ -1,0 +1,3 @@
+&Dat_kan_ik_ook_aan_jou_vragen.&
+&Weet_ik_niet.&
+&Ik_ben_maar_een_computer.&
