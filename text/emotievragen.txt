@@ -1,0 +1,10 @@
+&hoe_gaat_het&
+&hoe_gaat_het_met_je&
+&hoe_gaat_het_met_jou&
+&hoe_gaat_het_er_mee&
+&hoe_voel_je_je&
+&hoe_voel_jij_je&
+&hoe_is_het&
+&hoe_is_het_met_je&
+&hoe_is_het_met_jou&
+&hoe_is_het_er_mee&
