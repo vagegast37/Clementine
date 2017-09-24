@@ -9,7 +9,6 @@
 #include <ctime>
 #include <Windows.h>
 #include <algorithm>
-
 #include "class2.h"
 #include "FileRAW.h"
 #include "emotie.h"
